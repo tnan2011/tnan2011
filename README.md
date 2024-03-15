@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=LOLI,+NEVER+DIE;SHUT+UP+NIGGA....;HENTAI+SV+BIENTHAI+GAY!&center=true&size=30">
   </h1>
   <h5>
-    <code><a href="https://www.facebook.com/thnguyenen2motmot/" title="Facebook Profile"><img width="22" src="images/facebook.svg">thnguyenen2motmot</a></code>
+    <code><a href="https://www.facebook.com/thnguyenen2motmot/" title="Facebook Profile">thnguyenen2motmot</a></code>
   </h5>
 </div>
 

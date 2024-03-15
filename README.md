@@ -2,9 +2,11 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=LOLI,+NEVER+DIE;SHUT+UP+NIGGA....;HENTAI+SV+BIENTHAI+GAY!&center=true&size=30">
   </h1>
-  <h5>
-    <code><a href="https://www.facebook.com/thnguyenen2motmot/" title="Facebook Profile">thnguyenen2motmot</a></code>
-  </h5>
+  <h2> 💫 About Me 💫 </h2>
+
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](http://wamvn.net/discord) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/thnguyenen2motmot/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnThiNguyn3) 
+
 </div>
 
 <br />
@@ -18,22 +20,9 @@
 
 <div align="center">
   <h2> 🔥 Languages & Frameworks & Tools & Abilities 🔥 </h2>
-  <p>
-    <code><img title="HTML" height="25" src="images/html.svg"></code>
-    <code><img title="CSS" height="25" src="images/css.svg"></code>
-    <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-    <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
-    <code><img title="JQuery" height="25" src="images/jquery.svg"></code>
-    <code><img title="SASS" height="25" src="images/sass.svg"></code>
-    <code><img title="NodeJs" height="25" src="images/nodejs.svg"></code>
-    <code><img title="ExpressJs" height="25" src="images/expressjs.svg"></code>
-    <code><img title="Handlebar" height="25" src="images/handlebarsjs.svg"></code>
-    <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-    <code><img title="React" height="25" src="images/react.svg"></code>
-    <code><img title="Redux" height="25" src="images/redux.svg"></code>
-    <code><img title="C++" height="25" src="images/cpp.svg"></code>
-    <code><img title="Python" height="25" src="images/python.svg"></code>
-  </p>
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+  
 </div>
 
 <br />

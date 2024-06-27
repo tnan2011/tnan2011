@@ -53,5 +53,7 @@
   </div>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/896245307778687026)](https://discord.com/users/896245307778687026)
+
 ---
 ![](https://github-profile-trophy.vercel.app/?username=tnan2011&theme=radical&no-frame=false&no-bg=true&margin-w=4)

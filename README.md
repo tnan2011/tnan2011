@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=LOLI,+NEVER+DIE;SHUT+UP+NIGGA....;HENTAI+SV+BIENTHAI+GAY!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=LOLI,+NEVER+DIE;HOW+DID+WE+GET+HERE?;HENTAI+SV+BIENTHAI+GAY!&center=true&size=30">
   </h1>
   <h2> 💫 About Me 💫 </h2>
 
@@ -14,8 +14,8 @@
 <br />
 
 <div align="center">
-  <p> 👋 Shut up NIGGA <p>
-  <p> 🔬 I'm currently terrorism in National Terrorism - Pakistan - Al-Qaeda </p>
+  <p> 👋 How Did We Get Here? <p>
+  <p> 🔬 Hi, I'm Entiti, a 13-year-old student from Vietnam. :o) </p>
 </div>
 
 <br />

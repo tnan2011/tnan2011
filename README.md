@@ -15,7 +15,7 @@
 
 <div align="center">
   <p> 👋 How Did We Get Here? <p>
-  <p> 🔬 Hi, I'm Entiti, a 13-year-old student from Vietnam. :o) </p>
+  <p> 🔬 Hi, I'm Entiti, a 1x-year-old student from Vietnam. :o) </p>
 </div>
 
 <br />

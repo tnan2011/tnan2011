@@ -68,6 +68,9 @@
   </div>
 </div>
 
+##
+![](https://github-profile-trophy.vercel.app/?username=tnan2011&theme=radical)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/896245307778687026)](https://discord.com/users/896245307778687026)
 
 <!--

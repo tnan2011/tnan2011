@@ -71,7 +71,7 @@
 ##
 ![](https://github-profile-trophy.vercel.app/?username=tnan2011&theme=radical)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/896245307778687026)](https://discord.com/users/896245307778687026)
+[![Discord Presence](https://lanyard.cnrad.dev/api/913355264974012426)](https://discord.com/users/913355264974012426)
 
 <!--
 ---

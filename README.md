@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=ELAINA,+IS+DA+BEST;HOW+DID+WE+GET+HERE?;T1+MU+NAVY+GG!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=#include,+<bits/stdc++.h>;using+namespace+std;#define+int+long +long&center=true&size=30">
   </h1>
   <h2> 💫 About Me 💫 </h2>
 

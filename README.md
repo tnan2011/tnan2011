@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=#include+<bits/stdc++.h>;using+namespace+std;#define+int+long+long&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=%23include+%3Cbits%2Fstdc%2B%2B.h%3E;using+namespace+std;%23define+int+long+long&center=true&size=30">
   </h1>
   <h2> 💫 About Me 💫 </h2>
 
